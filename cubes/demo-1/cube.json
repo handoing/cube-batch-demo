@@ -1,0 +1,17 @@
+{
+	"id": "AAAAAA",
+	"version": "1.0.0",
+	"name": "示例",
+	"idn": "demo",
+	"keywords": ["keyword1","keyword2","keyword3"],
+	"ie": 8,
+	"miniapp_only": false,
+	"disable_expand": false,
+	"launchimg": "assets/launchimg.png",
+	"files": [
+		"cube.tpl",
+		"cube.css",
+		"cube.js",
+    "assets/launchimg.png"
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "detail": {
+    "host": "https://hao.360.com",
+    "timeout": 4000,
+    "data": {
+      "category": "__category__"
+    },
+    "cb": "_callback",
+    "offline": "__offlineData__"
+  }
+}

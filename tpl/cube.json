@@ -1,0 +1,17 @@
+{
+	"id": "__id__",
+	"version": "__version__",
+	"name": "__name__",
+	"idn": "__idn__",
+	"keywords": "__keywords__",
+	"ie": 8,
+	"miniapp_only": false,
+	"disable_expand": false,
+	"launchimg": "assets/launchimg.png",
+	"files": [
+		"cube.tpl",
+		"cube.css",
+		"cube.js",
+    "assets/launchimg.png"
+	]
+}

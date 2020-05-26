@@ -1,0 +1,24 @@
+{
+  "name": "cube-batch-demo",
+  "version": "1.0.0",
+  "description": "批量生成cube示例",
+  "main": "index.js",
+  "scripts": {
+    "build": "cube-macro -t ./tpl -o ./cubes",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handoing/cube-batch-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handoing/cube-batch-demo/issues"
+  },
+  "homepage": "https://github.com/handoing/cube-batch-demo#readme",
+  "dependencies": {
+    "cube-macro": "git+https://github.com/ntt360/cube-macro.git"
+  }
+}
